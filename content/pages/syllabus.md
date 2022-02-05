@@ -37,14 +37,75 @@ Students who take this course will be able to:
 Grading
 -------
 
-| Assignments | Percentages |
-| --- | --- |
-| Participation | 20% |
-| Problem Definition | 5% |
-| Journal | 25% |
-| Project Proposal | 20% |
-| Final Presentation | 10% |
-| Design Book | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Definition
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Book
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Participation:** This is assessed by attendance, participation in class discussion and activity, and work with partners.
 

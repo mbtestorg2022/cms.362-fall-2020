@@ -4,19 +4,429 @@ title: Calendar
 uid: 83ed4d84-e481-08c8-ace6-b440b2448c03
 ---
 
-| Week | Topics | Key Dates |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Icebreakers, Introduction to the Course and Way of Working {{< br >}}{{< br >}} **Guest:** Boston City Councilor Andrea Campbell {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Approaches to Design {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Thinking with technology{{< br >}}*   Foundation and critique of design thinking{{< br >}}*   Fundamentals of design ethnography {{< br >}}{{< br >}} **Guest:** Gabriel Mugar, Design Researcher, IDEO {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due (Journal):** Personal reflection on the topic area and how you hope to approach the design process {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Participatory Design (PD) and Codesign {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Power in design{{< br >}}*   Trust and collaboration{{< br >}}*   Participatory and codesign traditions{{< br >}}*   Running public process guided by explicit values{{< br >}}*   Listening and conversation methods {{< br >}}{{< br >}} **Guest:** Ceasar McDowell, MIT DUSP, on Civic Design methods {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due:** Stakeholder Interview and insights {{< br >}}{{< br >}} **Due (Journal):** Where do you see opportunities to open up the design process? What needs to be changed or established? {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PD in the Public Sector {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Application of PD methods in complex organizational settings{{< br >}}*   Problem definition{{< br >}}*   Policy coproduction {{< br >}}{{< br >}} **Guest:** Nigel Jacob, Boston Mayor’s Office of New Urban Mechanics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due:** Problem Definition Worksheet {{< br >}}{{< br >}} **Due (Journal):** What does policy codesign entail? Is participatory process enough? {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Creativity and Scoping {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Project scoping{{< br >}}*   Creative ideation{{< br >}}*   User personas / journeys{{< br >}}*   Design hypothesis{{< br >}}*   Field scan {{< br >}}{{< br >}} **Guest:** Thomas Vogel {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due (Journal):** Peer feedback on problem definition. This can take the form of an interview, focus group, etc. {{< br >}}{{< br >}} **Assignment:** Design a creative ideation exercise with your partners. Plan of the exercise is due next week. Plan to implement your listening exercise within two weeks. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Value Alignment and Partnership Agreements {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Aligning values{{< br >}}*   Partnership agreements{{< br >}}*   Integrating values into process and desired product {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due:** Draft of plan for ideation exercise process. Documentation of process due next week. {{< br >}}{{< br >}} **Due (Journal):** Reflection on ideation process {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Working with Data {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Critical thinking with data{{< br >}}*   Role of data literacy in any process{{< br >}}*   Representing data{{< br >}}*   Privacy {{< br >}}{{< br >}} **Guest:** Catherine D’Ignazio, DUSP MIT {{< br >}}{{< br >}} **Guest:** Carl DiSalvo, Georgia Tech {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due (Journal):** How are you thinking about data in your project? {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project Proposal {{< br >}}{{< br >}} Use seminar time to work with your team on Project Proposal. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due:** Project Proposal {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Evaluation {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Process evaluation{{< br >}}*   Rapid methods and communicating results {{< br >}}{{< br >}} **Guest:** Justeen Hyde, VA {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due (Journal):** Open topic {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Making {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Wireframes{{< br >}}*   Paper prototypes{{< br >}}*   Paper prototyping in a virtual environment {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due (Journal):** Open topic {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} User Testing {{< br >}}{{< br >}} **Topics:** {{< br >}}{{< br >}} *   Focus groups{{< br >}}*   Observations{{< br >}}*   Documenting insights on use {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due (Journal):** Open topic {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Iteration {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Use seminar time to work with your team on final projects. {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final Presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Due:** Design book and final media or documentation.  {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Icebreakers, Introduction to the Course and Way of Working
+
+**Guest:** Boston City Councilor Andrea Campbell
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Approaches to Design
+
+**Topics:**
+
+*   Thinking with technology
+*   Foundation and critique of design thinking
+*   Fundamentals of design ethnography
+
+**Guest:** Gabriel Mugar, Design Researcher, IDEO
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due (Journal):** Personal reflection on the topic area and how you hope to approach the design process
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Participatory Design (PD) and Codesign
+
+**Topics:**
+
+*   Power in design
+*   Trust and collaboration
+*   Participatory and codesign traditions
+*   Running public process guided by explicit values
+*   Listening and conversation methods
+
+**Guest:** Ceasar McDowell, MIT DUSP, on Civic Design methods
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due:** Stakeholder Interview and insights
+
+**Due (Journal):** Where do you see opportunities to open up the design process? What needs to be changed or established?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PD in the Public Sector
+
+**Topics:**
+
+*   Application of PD methods in complex organizational settings
+*   Problem definition
+*   Policy coproduction
+
+**Guest:** Nigel Jacob, Boston Mayor’s Office of New Urban Mechanics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due:** Problem Definition Worksheet
+
+**Due (Journal):** What does policy codesign entail? Is participatory process enough?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Creativity and Scoping
+
+**Topics:**
+
+*   Project scoping
+*   Creative ideation
+*   User personas / journeys
+*   Design hypothesis
+*   Field scan
+
+**Guest:** Thomas Vogel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due (Journal):** Peer feedback on problem definition. This can take the form of an interview, focus group, etc.
+
+**Assignment:** Design a creative ideation exercise with your partners. Plan of the exercise is due next week. Plan to implement your listening exercise within two weeks.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Value Alignment and Partnership Agreements
+
+**Topics:**
+
+*   Aligning values
+*   Partnership agreements
+*   Integrating values into process and desired product
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due:** Draft of plan for ideation exercise process. Documentation of process due next week.
+
+**Due (Journal):** Reflection on ideation process
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Working with Data
+
+**Topics:**
+
+*   Critical thinking with data
+*   Role of data literacy in any process
+*   Representing data
+*   Privacy
+
+**Guest:** Catherine D’Ignazio, DUSP MIT
+
+**Guest:** Carl DiSalvo, Georgia Tech
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due (Journal):** How are you thinking about data in your project?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project Proposal
+
+Use seminar time to work with your team on Project Proposal.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due:** Project Proposal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Evaluation
+
+**Topics:**
+
+*   Process evaluation
+*   Rapid methods and communicating results
+
+**Guest:** Justeen Hyde, VA
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due (Journal):** Open topic
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Making
+
+**Topics:**
+
+*   Wireframes
+*   Paper prototypes
+*   Paper prototyping in a virtual environment
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due (Journal):** Open topic
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+User Testing
+
+**Topics:**
+
+*   Focus groups
+*   Observations
+*   Documenting insights on use
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due (Journal):** Open topic
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Iteration
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Use seminar time to work with your team on final projects.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Due:** Design book and final media or documentation. 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
